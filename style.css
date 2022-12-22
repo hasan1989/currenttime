@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(0, 0, 0);
+  padding-top: 10%;
+}
+
+.a {
+  height: 30px;
+  width: 300px;
+  color: chartreuse;
+  background-color: rgb(0, 0, 0);
+  border: 1px solid chartreuse;
+  font-size: 25px;
+  
+}
+
+.container button {
+  cursor: pointer;
+}
+
+.container {
+  margin: auto;
+  /* border: 1px solid chartreuse; */
+  width: 80%;
+  text-align: center;
+}
+
+.output {
+  margin: auto;
+  /* border: 1px solid chartreuse; */
+  width: 80%;
+  color: chartreuse;
+  display: flex;
+  justify-content: center;
+ 
+  margin-top: 10px;
+  padding: 10px 0px 10px 0px;
+}
+
+.a-o {
+  border: 1px solid chartreuse;
+  height: 50px;
+  width: 300px;
+  text-align: center;
+  padding-top: 25px;
+}
